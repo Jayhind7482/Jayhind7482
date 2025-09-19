@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayhind7482
 - 👀 I’m interested in Data Science , Robotics and Automation 
 - 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on project related to Reinforcement learning
+- 💞️ I’m looking to collaborate on project related to Data Science , Machine Learning , Reinforcement Learning 
 - 📫 How to reach me emai - jayhind7482@gmail.com
 
 <!---
